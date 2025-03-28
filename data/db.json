@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "It's really fun making new websites on a daily basis!",
+            "author": "Lucifer",
+            "id": 1
+        },
+        {
+            "title": "What not to do in engineering?",
+            "body": "Padhayi zaruri hai!!",
+            "author": "Ronin",
+            "id": 2
+        },
+        {
+            "title": "What not to do in engineering?",
+            "body": "Padhayi zaruri hai!!",
+            "author": "Ronin",
+            "id": 3
+        }
+    ]
+}
