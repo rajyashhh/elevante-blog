@@ -1,22 +1,52 @@
 {
-    "blogs": [
-        {
-            "title": "My First Blog",
-            "body": "It's really fun making new websites on a daily basis!",
-            "author": "Lucifer",
-            "id": 1
-        },
-        {
-            "title": "What not to do in engineering?",
-            "body": "Padhayi zaruri hai!!",
-            "author": "Ronin",
-            "id": 2
-        },
-        {
-            "title": "What not to do in engineering?",
-            "body": "Padhayi zaruri hai!!",
-            "author": "Ronin",
-            "id": 3
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "It's really fun making new websites on a daily basis!",
+      "author": "Lucifer",
+      "id": "1"
+    },
+    {
+      "title": "What not to do in engineering?",
+      "body": "Padhayi zaruri hai!!",
+      "author": "Ronin",
+      "id": "2"
+    },
+    {
+      "title": "What not to do in engineering?",
+      "body": "Padhayi zaruri hai!!",
+      "author": "Ronin",
+      "id": "3"
+    },
+    {
+      "id": "61f2",
+      "title": " Crazyyyy",
+      "body": " This blog was fuckedddd",
+      "author": "yash"
+    },
+    {
+      "id": "08c3",
+      "title": " ye sahi hai bc",
+      "body": " jsbsa",
+      "author": "rahul"
+    },
+    {
+      "id": "fbda",
+      "title": " best way to pass exam",
+      "body": " No shortcuts please",
+      "author": "rahul"
+    },
+    {
+      "id": "a1d3",
+      "title": " dhd",
+      "body": " dhd",
+      "author": "yash"
+    },
+    {
+      "id": "9f3d",
+      "title": " what the hell",
+      "body": " yeahhhh",
+      "author": "yash"
+    }
+  ]
 }
