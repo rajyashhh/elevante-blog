@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useEffect, useState } from 'react';
 
 
 function useFetch(url){
@@ -9,7 +9,6 @@ function useFetch(url){
         ()=>{
         
         fetch(url).then(res => {
-            console.log(res);
             if(!res.ok){
                 throw Error('Could not fetch the data for that resource')
             }
