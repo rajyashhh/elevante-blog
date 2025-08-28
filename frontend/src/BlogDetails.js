@@ -8,7 +8,7 @@ const BlogDetails = () => {
     const { id } = useParams();
     const {data: blog, error, isPending} = useFetch('http://localhost:8000/blogs/' + id);
     function handleDelete(){
-        fetch('http://localhost:2000/blogs/' + blog.id, {
+        fetch('http://localhost:8000/blogs/' + blog.id, {
             method : 'DELETE'
         }).then(()=>{
             navigate('/')
