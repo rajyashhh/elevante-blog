@@ -6,7 +6,7 @@ import { useNavigate } from 'react-router-dom';
 const BlogDetails = () => {
     const navigate = useNavigate();
     const { id } = useParams();
-    const {data: blog, error, isPending} = useFetch('http://localhost:2000/blogs/' + id);
+    const {data: blog, error, isPending} = useFetch('http://localhost:8000/blogs/' + id);
     function handleDelete(){
         fetch('http://localhost:2000/blogs/' + blog.id, {
             method : 'DELETE'
